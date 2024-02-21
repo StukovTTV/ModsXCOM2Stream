@@ -1,0 +1,923 @@
+Unsorted (4):
+	Stop Cheating, ADVENT!                                                               	NoSightRangeCheats                                         	3118976951 	
+	[WotC] CX UA 571-C Automated Sentry Gun                                              	CXsentrygun                                                	1178479904 	
+	[WOTC] LWoTC Aim Rolls                                                               	LWAimRolls                                                 	3154253968 	
+	ZelfScatterEverything                                                                	ZelfScatterEverything                                      	0          	
+
+Class (35):
+	[WOTC] Pharmacist Class                                                              	WOTC_Pharmacist                                            	1547221588 	
+	[WOTC] Iridar's Stormrider Class                                                     	WOTCStormriderClass                                        	2042813766 	
+	Biotic Class Redux                                                                   	BioticClassRedux                                           	1125004715 	
+	Necromancer Class - WOTC                                                             	NecromancerClassWOTC                                       	1137913176 	
+	Patchwork Soldier Class                                                              	PatchworkSoldierClass                                      	2109032078 	
+	WOTC Isms Rogue Soldier Class                                                        	WOTCIsmsRogueSoldierClass                                  	2366350187 	
+	WOTC Grimy Classes                                                                   	WOTCGrimyClasses                                           	1686990742 	
+	Nightblade Soldier Class                                                             	NightbladeSoldierClass                                     	1878239424 	
+	(WOTC) ShockTrooper Port (Old/ Abandoned)                                            	AlphaShockTrooper                                          	1145764894 	
+	PROJECT EXVENT: Playable ADVENT [v2.4]                                               	ProjectExvent                                              	2389396383 	
+	[WotC] Brigand Class                                                                 	BrigandClass                                               	1723508546 	
+	Saboteur Class (WOTC)                                                                	SaboteurClass                                              	1182728750 	
+	[WOTC] Mechanic Class                                                                	MechanicClassWOTC                                          	2765508148 	
+	[WOTC] Choose My Class                                                               	WOTC_ChooseMyClass                                         	1467643380 	
+	[WotC] Jane Kelly Starting Soldier                                                   	WotCJaneKelly                                              	2336174862 	
+	[WotC] Jammerware's Architect Class (BETA)                                           	JammerwareModClassArchitect                                	1191669118 	
+	[WoTC]Fixer Post-Human Class(Rework ver-1.3)                                         	WoTCFixerReworkMod                                         	2413532815 	
+	[WOTC] Blutengel Soldier Class                                                       	FTBBlutengel                                               	2819497775 	
+	XCOM: Gears Tactics Class/Perk Pack [BETA]                                           	XComGearsPerkPack                                          	2829482169 	
+	Hidden Potential                                                                     	HiddenPotential                                            	2830669371 	
+	Stukovs Squadleader Class                                                            	StukovsSquadleaderClass                                    	2832402744 	
+	[WOTC] Rocketeer Class                                                               	AlphaRocketeer                                             	1527656509 	
+	Vindicator class                                                                     	Vindicatorclass                                            	2387063464 	
+	WotC Richards Classes 3 Tree Plus LW                                                 	WotCRichardsClasses3TreePlusLW                             	1143304826 	
+	SuperSoldiers (Core)                                                                 	WOTCHeroPerks                                              	1726208561 	
+	Jedi Class Revised                                                                   	JediClassRevised                                           	2031929512 	
+	Hijacker Ported Back                                                                 	HijackerPortedBack                                         	2960655026 	
+	Crasher Ported Back                                                                  	CrasherPortedBack                                          	2833383902 	
+	Hoplite Ported Back                                                                  	HoplitePortedBack                                          	2831136871 	
+	Arsonist Ported Back                                                                 	ArsonistPortedBack                                         	2833087918 	
+	Agent Ported Back                                                                    	AgentPortedBack                                            	2833394622 	
+	[WOTC] Rescue Denmother                                                              	WOTCRescueDenmother                                        	2189770689 	
+	[WOTC] LordAbizi's Battlefield Leadership Training                                   	AbiziOTS                                                   	2974710943 	
+	[WOTC] Bio Operative Class                                                           	BioOperative3                                              	1446846216 	
+	A Requiem Campaign: Scavenger Class [BETA]                                           	ARFMScavenger                                              	3158385565 	
+
+Enemy (27):
+	Frost Legion                                                                         	FrostDivision                                              	2481645156 	
+	WOTC Advent Drone                                                                    	WOTCAlphaDrone                                             	2450561432 	
+	[WoTC] Custodian Pack                                                                	CustodianPack                                              	2094672450 	
+	[WOTC] The Hive                                                                      	TheHive                                                    	1918499687 	
+	[WOTC] The Hive More                                                                 	TheHiveMore                                                	1918585695 	
+	[WOTC] Advent Hunter Restoration (Counter Op)                                        	AdventHunterRestorationWOTC                                	1830279289 	
+	[WOTC] Advent Medic                                                                  	WOTCAdventMedic                                            	1177720393 	
+	Advent Spark Standalone                                                              	AdventSparkStandalone                                      	1754738740 	
+	[WOTC] Bio Division 2.0                                                              	BioDivision                                                	1731235406 	
+	[WOTC] Even More Robots                                                              	MoreSectopods                                              	1779437601 	
+	[WoTC] Pathfinders                                                                   	WoTCPathfinders                                            	1229048071 	
+	[WotC] The Drome Dome                                                                	WelcometotheDromeDome                                      	2473050694 	
+	Chryssalid Mutations                                                                 	ChryssalidMutations                                        	1849581502 	
+	A Harder War: Advanced Aliens                                                        	AHarderWarAdvancedAliens                                   	1968720910 	
+	A Harder War: The Ethereal Restoration                                               	TheEthereals                                               	2726953893 	
+	A Requiem For Man: Praetorians Standalone                                            	AHarderWarThePraetorians                                   	2756786696 	
+	A Better ADVENT: War of the Chosen                                                   	ABetterADVENTWaroftheChosen                                	1126623381 	
+	(WotC) Spectrum: Enemies and Aegis Division                                          	SpectrumEnemiesWotc                                        	2796488626 	
+	[WotC] Neonate Chryssalids                                                           	NeonateChryssalids                                         	2336170555 	
+	ADVENT Droid Troopers                                                                	ADVENTDroids                                               	2815798934 	
+	[WOTC] SPARK Ruler                                                                   	TeslaMecRuler                                              	2854261709 	
+	[WOTC] Sectoid Abductor                                                              	SectoidAbductor                                            	1386027774 	
+	Sectoid Abjurer For LWOTC                                                            	SectoidAbjurerLWOTC                                        	2808872062 	
+	ADVENT Warlock - WotC                                                                	WotC_AshlynneAdvWarlock                                    	1144417938 	
+	Advent to Galactic Empire Content: Volume 2 [WOTC]                                   	Advent2Empire_ContentV2                                    	2285081181 	
+	Advent to Galactic Empire Content: Volume 1 [WOTC]                                   	Advent2EmpireContent                                       	2154231689 	
+	[WOTC] Standalone LWOTC Alien Pack                                                   	WOTC_AlienPack                                             	3005345170 	
+
+hidden (2):
+	Add Part Names                                                                       	AddedPartNames                                             	878158600  	
+	Quicker Start                                                                        	QuickerStart                                               	756948560  	
+
+Maps (19):
+	Map [Dam]                                                                            	Map[Dam]                                                   	2347317251 	
+	Map [Forest]                                                                         	Map[Forest]                                                	2336297976 	
+	Map [Cliffs]                                                                         	Map[Cliffs]                                                	2336094793 	
+	Map Expansion UPK                                                                    	MapExpansionUPk                                            	1637404109 	
+	Doctor Mandarbs Map-Pack (TLE)                                                       	DoctorMandarbsMap-Pack(TLE)                                	1536253889 	
+	Operations Unknown: An XCOM 2 Map Mod [WOTC]                                         	XCOMEnemyUnknownMaps                                       	1602159233 	
+	Even More Maps! [WOTC]                                                               	EvenMoreMaps![WOTC]                                        	1139192059 	
+	[WOTC] Eclipsezr Parcels                                                             	[WOTC]EclipsezrParcels                                     	2638942556 	
+	Map [Alien Base]                                                                     	Map[AlienBase]                                             	2811106895 	
+	Map [Cave]                                                                           	Map[Cave]                                                  	2814586773 	
+	Map [Advent Base]                                                                    	Map[AdventBase]                                            	2814928985 	
+	Map [Biomes]                                                                         	Map[Biomes]                                                	2822709966 	
+	Map [Overgrown City]                                                                 	Map[OvergrownCity]                                         	2822000448 	
+	Map [Lost Neighborhood]                                                              	Map[LostNeighborhood]                                      	2347283240 	
+	Map [Glacier]                                                                        	Map[Glacier]                                               	2982062780 	
+	Map [Marshland]                                                                      	Map[Marshland]                                             	2982065663 	
+	Map [Water Base]                                                                     	Map[WaterBase]                                             	2982066357 	
+	[WOTC] Supply Extract Map Pack                                                       	MoreAdventDepots                                           	3011986977 	
+	[WOTC] Eclipsezr Small Map-Cemetery                                                  	[WOTC]EclipsezrSmallMaps                                   	3064668571 	
+
+Cosmetic (95):
+	[WOTC] Chimera Squad Armor Pack #1 (v1.02)                                           	ChimeraPack1                                               	2374241819 	
+	[WOTC] Invisible Body Parts For All (v1.1)                                           	InvisibleLimbs                                             	2146403415 	
+	[WOTC] Wolf's Asset Pack                                                             	WolfAssetPack                                              	2245270253 	
+	[WotC] Enemy Reskinner                                                               	EnemyReskinnerRedux                                        	1805997042 	
+	Deadput's ABA/Elite Alien Unit Visual Changes.                                       	ChimeraABAReskinner                                        	2623812877 	
+	[WOTC Port] XCOM EW EXALT Suits (& Bradford's Sweater) (v1.05)                       	EggsaltAndBradford                                         	1858331474 	
+	WOTC Female Hair Pack                                                                	WOTC_Hair_Pack                                             	1471399748 	
+	WOTC Head Pack                                                                       	WOTC_Head_Pack                                             	1835888336 	
+	[WOTC] Capnbubs Accessories 2022                                                     	CapnCrunchAccessories                                      	2700125342 	
+	Templar Gear                                                                         	TemplarGear                                                	1181815666 	
+	Arms and Shoulders                                                                   	ArmsShoulders                                              	1092571334 	
+	Anarchys Children Extra Options                                                      	AnarchysChildrenExtraOptions                               	651406954  	
+	[WOTC] Alien Hunters Armor Customization                                             	AlienArmorCustomization                                    	1595591864 	
+	[WOTC] Archon's Visual Diversity                                                     	NewArchon                                                  	1786009293 	
+	WOTC Male Hair Pack                                                                  	WOTC_Male_Hair_Pack                                        	1733669574 	
+	Ketaros Combo Pack 1.0                                                               	KetarosComboPack                                           	1693419391 	
+	Lipstick Pack (Facepaint)                                                            	Kazzerk'sLipstickPack(Facepaint)                           	620998078  	
+	[WotC] A Better Advent: Enemy Reskinner                                              	ABAReskinner                                               	1343097299 	
+	[WOTC] M3 Stunlancer Restoration                                                     	StunlancerRestorationWotc                                  	1810184248 	
+	Custom Face Paints                                                                   	ReplikantsCustomFacePaints                                 	619525059  	
+	TLE Animsets For Everybody                                                           	TLEPosesForAll                                             	1546249761 	
+	[WOTC] More Clothes Options (and other stuffs)                                       	WOTC_MoreClothes                                           	1128059387 	
+	Eberron Squad Emblems                                                                	EberronSquadEmblems                                        	2809336831 	
+	Full Character Customization From Start                                              	FullCharacterCustomizationFromStart                        	620530611  	
+	FacesOfXcom                                                                          	FacesOfXcom                                                	1673311618 	
+	Aero's Shells - Generic Shell Mod [WOTC]                                             	WotC_Aero_MenuShells                                       	2800129806 	
+	PARAGON: Lt. Belica's Outfits [WOTC]                                                 	WotC_Paragon_Belica                                        	1775285605 	
+	WOTC Female Clothing Pack 2.0                                                        	WOTC_FCP_2                                                 	2688627224 	
+	Ketaros - Scars Package v2.0                                                         	KetarosScarsPack                                           	1503799867 	
+	Ketaros Tattoo Pack Special                                                          	KetarosTattooPackSpecial                                   	1723522935 	
+	FTH Capnbubs Addon - WotC                                                            	FTHCapnbubsAddon                                           	1557022032 	
+	More hair colors - WOTC Compatible                                                   	NewHairmod                                                 	628668732  	
+	[WOTC] UFOpedia & Bestiary                                                           	WOTC_UFOPedia                                              	2819129273 	
+	[WOTC] UFOpedia & Bestiary: MOCX Plugin                                              	WOTC_UFOPedia_MOCX                                         	2819135503 	
+	UFOpedia Plugin: MOCX to EXALT                                                       	mocxexaltufopedia                                          	2819938797 	
+	Hats by Roca                                                                         	HatsbyRoca                                                 	632339716  	
+	WOTC_JsleezysRepurposedGear                                                          	WOTC_JsleezysRepurposedGear                                	1132838346 	
+	Skyranger Skins Decal Pack                                                           	SkyrangerSkinsDecalPack                                    	1346085718 	
+	WotC: Skyranger Skins                                                                	WotC_SkyrangerSkins                                        	1346067153 	
+	All Armour Avenger                                                                   	VIPunderlayShenanigans                                     	2381344558 	
+	[WOTC] Custom Hero Class Icon Support                                                	FTBShowCustomHeroIcon                                      	2781186785 	
+	SW Alien Head Pack Extra: Base Heads (WOTC)                                          	SWAliensBaseHeadsWOTC                                      	1127146685 	
+	SW Alien Head Pack 04: Scum and Villainy (WOTC)                                      	SWAliensScumVillainyWOTC                                   	1127249352 	
+	SW Alien Head Pack 03: Cantina Denizens (WOTC)                                       	SWAliensCantinaDenizensWOTC                                	1127231598 	
+	[WOTC] Iridar's Appearance Manager                                                   	WOTCIridarAppearanceManager                                	2664422411 	
+	[WOTC] Random Appearance Button                                                      	RandomAppearanceButton                                     	1215679398 	
+	[WOTC] Mass Effect - Dr. Liara T'Soni Armor                                          	Liara_TSoni_Armor                                          	2522766414 	
+	[WOTC] Chimera Cosmetics #2: Sacred Coil                                             	ChineraSquadSacredCoil                                     	2380920810 	
+	Sith of the Old Republic [WOTC]                                                      	OldRepublic_SithArmor                                      	2667302958 	
+	[WOTC] Mass Effect N7 Armory                                                         	N7Armory                                                   	1955189140 	
+	Sith Imperials of the Old Republic [WOTC]                                            	OldRepublic_SithEmpireArmor                                	2686298108 	
+	[WOTC]Mass Effect Human Mercenaries cosmetics                                        	MassEffectMercenaries                                      	1695673754 	
+	[WOTC]Mass Effect Multiplayer Armour Pack                                            	MassEffectMultiplayerPack                                  	2010492838 	
+	Gears Of War: COG Armor Pack [Vers. 2.0.0]                                           	GearsOfWarCOGPack                                          	955890973  	
+	Mass Effect Armor & Camo Pack                                                        	MassEffectCamoPatterns                                     	621112885  	
+	WOTC Tali Squadmate                                                                  	WOTC_Tali_Squadmate                                        	1124358525 	
+	WOTC Thessia Update                                                                  	WOTC_Thessia_Update                                        	1132052228 	
+	[WotC] Mass Effect: Andromeda - Armor Pack                                           	MamaMEA_ArmorCustomizationPack                             	1263866085 	
+	WOTC Kasumi Squadmate                                                                	WOTC_Kasumi_Squadmate                                      	1131792597 	
+	WOTC Kerrigan Squadmate                                                              	WOTC_Kerrigan_Squadmate                                    	1130410125 	
+	WOTC Nova Squadmate                                                                  	WOTC_Nova_Squadmate                                        	1131360448 	
+	Surplus Class Icons Pack                                                             	SurplusClassIconsPack                                      	2893087536 	
+	(RE4R) RESIDENT EVIL 4 REMAKE: Ada's Gear [WOTC]                                     	WotC_RE4R_AdaOutfit                                        	2953087047 	
+	WOTC XCOM: EW Covert Operatives Outfits                                              	WOTC_EW_Covert_Operatives                                  	1988008477 	
+	Resistance Tattoos [WOTC]                                                            	ResistanceTattoos[WOTC]                                    	1476969624 	
+	[WOTC] Empty Props for Hero Classes                                                  	WOTCEmptyProps                                             	1280962181 	
+	[WOTC] Invisible Parts For Hero Units                                                	InvisibleHeroUnitsBodyParts                                	1125697296 	
+	[WOTC] Pistol Friendly Skirmishers Torso Decos                                       	WOTC_NewSkirmishersDecos                                   	2286920576 	
+	WOTC Calendar Pose Pack                                                              	WOTC_Kexx_Pose_Pack_Calendar                               	2589645640 	
+	WOTC Casual Pose Pack                                                                	WOTC_Kexx_Pose_Pack                                        	2589637478 	
+	Eberron Flags                                                                        	EberronFlags                                               	0          	
+	Commander Hat                                                                        	CommanderHat                                               	634805931  	
+	ARC T-Doll Pack: Squad 404                                                           	GFLFactionPackSquad404                                     	2812337793 	
+	[WotC] XCom 2 Community Pose Pack                                                    	WotC_CX_Pose_Pack                                          	1601400977 	
+	[WOTC] Visual Attachments for Pistols (Supports Coil, Laser and Primary Secondaries) 	WOTC_PIstol_Attachments                                    	2060073001 	
+	[WOTC]Star Wars BX Droid                                                             	StarWarsBXDroid                                            	1787860917 	
+	[WOTC] XCOM Legends Betos Cosmetics                                                  	LegendsBetos                                               	2928078388 	
+	[XCOM Legends] Geist Outfit                                                          	Legendsgeist                                               	2949727110 	
+	[WOTC] XCOM Legends Galahad Cosmetics (v1.1.1)                                       	LegendsGalahad                                             	2560327100 	
+	[WOTC] XCOM Legends Oni Cosmetics (v1.1)                                             	LegendsOni                                                 	2563246927 	
+	[WOTC] XCOM Legends Bonesaw Cosmetics                                                	LegendsBonesaw                                             	2921467630 	
+	[Legends] Echo Outfit                                                                	Legendsecho                                                	2948717058 	
+	[WOTC] XCOM Legends Lynx Cosmetics                                                   	LegendsLynx                                                	2913494482 	
+	Modular Shanty Clothes - Wotc                                                        	ShantyBodyParts                                            	1221459828 	
+	WOTC Female Clothing Pack                                                            	WOTC_Female_Clothing_Pack                                  	1586643354 	
+	More armor colors                                                                    	Morearmorcolors                                            	629604401  	
+	Ketaros Cyborg Scars                                                                 	KetarosCyborgScars                                         	1730413238 	
+	Modular X-Com Hero Suits                                                             	FactionUnderlayDecos                                       	2366627481 	
+	Free the Hood - WotC                                                                 	FreetheHood-WotC                                           	1131287172 	
+	Completely Invisible Heads [WOTC]                                                    	CompletelyInvisibleHeads                                   	1943567671 	
+	Emissive Faction Augments                                                            	EmissiveFactionAugments                                    	2373741977 	
+	WOTC Mordin Squadmate                                                                	WOTC_Mordin_Squadmate                                      	1130949014 	
+	WOTC Thane Squadmate                                                                 	WOTC_Thane_Squadmate                                       	1834257589 	
+	WOTC Liara Squadmate                                                                 	WOTC_Liara_Squadmate                                       	1127594941 	
+	KEXX - Enemy Unknown - Compatibility                                                 	KEXX-EnemyUnknown-Compatibility                            	0          	
+
+AugmentsGENE (12):
+	Augmentations                                                                        	Augmentations                                              	1293725945 	
+	[WOTC] Augments Status Display                                                       	WOTC_AugmentsStatusDisplay                                 	2251956528 	
+	Augments: WOTC Prosthetics                                                           	AugmentsWotC                                               	1365024614 	
+	[WotC] Gene Mods                                                                     	WotC_Gameplay_GeneModding                                  	1877861493 	
+	Augments: XCOM Prosthetics                                                           	Augments                                                   	1079953981 	
+	[WOTC] Rabbit Ability                                                                	WOTCRabbit                                                 	1725974312 	
+	[WotC] Gene Mods - Iridar's Pack                                                     	WOTCRabbitGeneMod                                          	1885319290 	
+	Mark Zero Augments                                                                   	MarkZeroAugments                                           	1294744824 	
+	[WOTC] No Drop Down Lists: Gene Mods                                                 	WOTC_GENE_NODD                                             	2755036257 	
+	[WOTC] Stukov's War Gene Mods                                                        	StukovWarGeneMods                                          	2728408174 	
+	Stukovs War: Psionic Gene Mods                                                       	StukovsWarPsionicGeneMods                                  	0          	
+	Stukovs Savage Augmentations                                                         	StukovsSavageAugmentations                                 	3047058412 	
+
+UI (30):
+	[WOTC] More Target Icons 2020                                                        	WOTC_2020TargetIcons                                       	2010827399 	
+	[WOTC] Coloured PCS Icons                                                            	WOTC_RustyPCSIcons                                         	2425682362 	
+	[WOTC] Improved Weapon Upgrade UI                                                    	WOTC_RustyWeaponUpgradeUI                                  	2042829719 	
+	[WOTC] Unit Flag Extended                                                            	WOTCLootIndicator_Extended                                 	2285967646 	
+	Post Process Status Effects                                                          	PostProcessStatusEffects                                   	1290331416 	
+	[WOTC] Better Armory Item Stats                                                      	ArmouryCrit                                                	1489472552 	
+	[WOTC] New Target Icons                                                              	WOTCNewTargetIcons                                         	1384631824 	
+	WOTC - Extended Information!                                                         	WOTC_DisplayHitChance                                      	1183444470 	
+	[WOTC] Tactical UI Kill Counter Redux                                                	WOTC_TacCounters                                           	2405013108 	
+	[WOTC] Barracks Status Display                                                       	WOTC_CI_ResizeHangarStatus                                 	2540649820 	
+	[WOTC] Avenger DeJanker                                                              	NelVlesis_Icon_Overrides                                   	2254206296 	
+	WOTC Nice Mission Debriefing                                                         	WOTCNiceMissionDebriefing                                  	1154827808 	
+	[WOTC] Color Your Techs                                                              	WOTC_ColorYourTech                                         	2293559450 	
+	Better Debug Camera (Unofficial WOTC Version)                                        	WOTCDebugCamera                                            	1256502654 	
+	Show More Buff Details                                                               	ShowMoreBuffDetails                                        	709499969  	
+	Stukovs War: Stukovs Class Icons                                                     	StukovsWarStukovsAssets                                    	2810988571 	
+	[WOTC] Detailed Soldier Lists Redux                                                  	WOTC_DSL_Rusty                                             	2832773856 	
+	Stukovs Ability Icons                                                                	StukovsAbilityIcons                                        	0          	
+	[WOTC] Loot You Missed                                                               	LootYouMissed                                              	2959360540 	
+	WOTC - Configurable Headshots                                                        	LEBPortrait                                                	1273848330 	
+	[WOTC] Shell Map Swapper                                                             	WOTC_ShellSwap                                             	2978089366 	
+	[WOTC] DSL Redux Sort Options Plugin                                                 	WOTC_DSL_Rusty_Sort                                        	2857715600 	
+	[WOTC] Standardised Resources Bar                                                    	WOTC_StandardisedResourcesBar                              	2276175904 	
+	[WOTC] Compact Perks For Armory                                                      	WOTC_CompactPerksInArmory                                  	2871524968 	
+	Color Class Icons                                                                    	ColorClassIcons                                            	2986541763 	
+	WotC: Color Coded Bonds                                                              	WotC_ColorCodedBonds                                       	1124175584 	
+	Color Class Icons: Amalgamation Classes                                              	ColorClassIconsAmalgamationClasses                         	2993787875 	
+	[WOTC] Full Shadow Report                                                            	WOTC_FullShadowReport                                      	2995251401 	
+	[WOTC] Select Soldier Icons Redux                                                    	SoldierSelectIcons_WOTC                                    	2960880496 	
+	[WotC] Armory Camera Tweak                                                           	WotC_ArmoryCameraTweak                                     	1452844473 	
+
+PSI (4):
+	[WOTC] Psionic Implants                                                              	WOTC_MorePsiAmps                                           	2224463798 	
+	Cut Content Psionics [WOTC]                                                          	CutContentPsionicsWOTC                                     	2164176007 	
+	[WOTC] More Psionic Units                                                            	MorePsionicUnits                                           	1489268865 	
+	[WOTC] More Psi Abilities                                                            	IridarsPsiOverhaul                                         	1662114279 	
+
+Voicepack (42):
+	Propaganda Announcer Voice Pack                                                      	PropagandaAnnouncerVoicePack                               	1399384681 	
+	Gears of War Voicepack                                                               	GOWVoicepack                                               	630433642  	
+	Cerberus Troop Voice pack - WOTC                                                     	CerberusTroopVoicepack-WOTC                                	1124704507 	
+	BATTLETECH Jessica "Glitch" Chernovskaya Voicepack                                   	BATTLETECHGlitchVoicepack                                  	1989668403 	
+	Mona Sax Voicepack                                                                   	MonaSaxVoicepack                                           	1234208990 	
+	Dr. Vahlen Voicepack                                                                 	ExampleVoicePack                                           	652794401  	
+	Jagged Alliance Voicepack: Wave 1                                                    	JaggedAllianceMegaVoicepack                                	627110990  	
+	Jagged Alliance Voicepack: Wave 4                                                    	JaggedAllianceVoicepackWave4                               	657492560  	
+	Jagged Alliance Voicepack: Wave 3                                                    	JaggedAllianceVoicepackWave3                               	648507872  	
+	Jagged Alliance Voicepack: Wave 2                                                    	JaggedAlliance2VoicepackWave2                              	635016205  	
+	Zhang Voice Pack (Chinese Accent)                                                    	ZhangVoicePack                                             	627790480  	
+	Tygan Soldier Voice Pack                                                             	TyganSoldierVoicePack                                      	1101614033 	
+	Van Doorn Voice Pack                                                                 	VanDoornVoicePack                                          	631342362  	
+	Annette Voice Pack (French Accent)                                                   	AnnetteVoicePack                                           	628333245  	
+	Garrus Vakarian Voice Pack (Scourge's Edition) [WotC Compatible]                     	GarrusVakarianVoicePack                                    	918153968  	
+	Tali'Zorah Voice Pack (Scourge's Edition) [WotC Compatible]                          	TaliZorahVoicePack                                         	912511898  	
+	Nyreen Kandros Voice Pack                                                            	NyreenKandrosVoicePack                                     	956345270  	
+	Aria T'Loak Voicepack                                                                	AriaT'LoakVoicepack                                        	946248272  	
+	Samara Voice Pack                                                                    	SamaraVoicePack                                            	773047248  	
+	Kasumi Voice Pack (Galw1n's Edition)                                                 	KasumiVoicePack(Galw1n'sEdition)                           	759634615  	
+	Zaeed Voice Pack (Galw1n's Edition)                                                  	ZaeedVoicePack(Galw1n'sEdition)                            	759627028  	
+	Miranda Voice Pack (Galw1n's Edition)                                                	MirandaVoicePack(Galw1n'sEdition)                          	758524377  	
+	Urdnot Grunt Voice Pack                                                              	UrdnotGruntVoicePack                                       	633072536  	
+	Bradford's Voice                                                                     	Bradford'sVoice                                            	684457673  	
+	Lily's Voice                                                                         	Lily'sVoice                                                	716778891  	
+	RE2 Claire Redfield Voicepack (WOTC version)                                         	ClaireVoice                                                	2681176073 	
+	R3MAKE: JILL VALENTINE VOICEPACK                                                     	R3MAKE_JILL_VOICE                                          	2297627494 	
+	Deffy_Dhuck OC Voice Pack                                                            	Deffy_DhuckOCVoicePack                                     	2804913530 	
+	Liara Voice Pack (Galw1n's Edition)                                                  	LiaraVoicePack(Galw1n'sEdition)                            	773665024  	
+	SW Alien Voice Pack (Legacy)                                                         	SWAliensVoicePack                                          	884008088  	
+	Overwatch Voicepack COLLECTION                                                       	OverwatchEpicCollection                                    	1833731568 	
+	HK-47 Voicepack                                                                      	SWHK47VP                                                   	2886320611 	
+	Konstantine 'Volk' Volikov Voice pack                                                	Konstantine'Volk'VolikovVoicepack                          	1455244830 	
+	CP Jagged Alliance Series Character Pack                                             	CPJaggedAllianceSeriesCharacterPack                        	623911299  	
+	[Girls' Frontline] G11 Squadmate and Voice [WOTC]                                    	WOTC_GFL1_G11_Squadmate                                    	2797862223 	
+	[Girls' Frontline] HK416 Squadmate and Voice [WOTC]                                  	WOTC_GFL1_HK416_Squadmate                                  	2797819343 	
+	[Girls' Frontline] UMP9 Squadmate and Voice [WOTC]                                   	WOTC_GFL1_UMP9_Squadmate                                   	2797865980 	
+	[Girls' Frontline] UMP45 Squadmate and Voice [WOTC]                                  	WOTC_GFL1_UMP45_Squadmate                                  	2797868171 	
+	Kirrahe Voice Pack                                                                   	KirraheVoicePack                                           	962761580  	
+	Mordin Solus Voice Pack                                                              	MordinSolusVoicePack                                       	630310322  	
+	Thane Krios VoicePack                                                                	ThaneKriosVoicePack                                        	631852684  	
+	Javik Voice Pack                                                                     	JavikVoicePack                                             	777881972  	
+
+Factions (26):
+	[WotC] The MOCX Initiative                                                           	DarkXCOMRedux                                              	1129661000 	
+	Raider Faction: Phantoms                                                             	Phantoms                                                   	1368589567 	
+	Raider Faction: Marauders                                                            	RaiderFactionMarauders                                     	1368608233 	
+	Raider Faction: Bandits                                                              	Banditry                                                   	1368613369 	
+	Raider Faction: Cult of Jariah                                                       	CultofJeriah                                               	1368626625 	
+	Raider Faction: Rogue XCOM Operatives                                                	RaiderFactionRogueXCOM                                     	1434693497 	
+	Raider Faction Bases                                                                 	RaiderFactionBases                                         	1601260788 	
+	Raider Faction: Global Occult Coalition                                              	GOCIncursion                                               	1930344321 	
+	Rebellious MOCX                                                                      	RebelliousMOCX                                             	1368992836 	
+	MOCX Class: Zealot                                                                   	MOCXKnightClass                                            	1978363213 	
+	MOCX as EXALT  1.4                                                                   	mocxadventarsenal                                          	2681055768 	
+	Proficiency Plugin: The MOCX Initiative                                              	FTBProficiencyPluginHybridMocx                             	2675457061 	
+	[WOTC] MOCX Customizer+                                                              	FTBMocxUsePoolClass                                        	2692116416 	
+	Girls' Frontline Resistance Faction: ARC                                             	GFLFaction                                                 	2810833534 	
+	MOCX Class: Phantom                                                                  	FTBMocxPhantom                                             	2854534998 	
+	Raider Faction: SCP Foundation Mobile Task Forces                                    	FoundationOperativesRF                                     	1774066942 	
+	Mandalorian 3rd Party Faction [WOTC]                                                 	MandalorianRaiderFaction                                   	2440032345 	
+	Nightsisters 3rd Party Faction [WOTC]                                                	NightsisterFaction                                         	2850059924 	
+	Hutt Cartel 3rd Party Faction [WOTC]                                                 	HuttCartelFaction                                          	2621337093 	
+	Raider Faction: Heretic Geth                                                         	RaiderFactionHereticGeth                                   	1961059683 	
+	Raider Faction: Chaos Insurgency                                                     	ChaosInsurgencyIntrusion                                   	1781154099 	
+	SCP Foundation Mobile Task Forces LITE                                               	FoundationOperativesLite                                   	2858397355 	
+	Distress Beacon                                                                      	DistressBeacon                                             	2958137343 	
+	Dark Eldar Raiders Faction                                                           	DarkEldar_Raiders                                          	1904215974 	
+	Faction Heroes Sitrep                                                                	A115FactionHeroSitrep                                      	2977788641 	
+	Rising Tides: The Program                                                            	RisingTides                                                	1500499606 	
+
+CI (37):
+	Strategy Overhaul Bridge: Light Strategy Overhaul                                    	LSCCIBridge                                                	2734579315 	
+	[WOTC] Covert Infiltration                                                           	CovertInfiltration                                         	2567230730 	
+	Strategy Overhaul Bridge: Project EXVENT                                             	CIBridge_Exvent                                            	2450993929 	
+	Strategy Overhaul Bridge: ADVENT Pathfinders                                         	SOBridge_Pathfinders                                       	2526469048 	
+	Strategy Overhaul Bridge: Ballistic Shields                                          	SOBridge_BallisticShields                                  	2526466048 	
+	Strategy Overhaul Bridge: Long War SMG Pack                                          	SOBridge_SMG                                               	2526470239 	
+	Strategy Overhaul Bridge: Vektor Crossbows                                           	SOBridge_VektorCrossbows                                   	2526469550 	
+	[WOTC] Prototype Armoury                                                             	PrototypeArmoury                                           	2567230602 	
+	[WOTC] Accurate Situation Report                                                     	AccurateSituationReport                                    	2567229533 	
+	[WOTC] Infiltrator's Disguises                                                       	InfiltratorsDisguises                                      	2567230195 	
+	[WOTC] Living Space                                                                  	LivingSpace                                                	2567230440 	
+	Strategy Overhaul Bridge: Rocket Launchers                                           	SOBridge_RocketLaunchers                                   	2526470557 	
+	Strategy Overhaul Bridge: Pharmacist Class                                           	CIBridgePharmacist                                         	2450582399 	
+	Strategy Overhaul Bridge: WOTC The Axe Mod                                           	StategyOverhaulBridgeWOTCTheAxeMod                         	2593841424 	
+	Strategy Overhaul Bridge: Iridar's Spark Arsenal                                     	CIBridge_SparkArsenal                                      	2275898359 	
+	[SOCI] Bridge : Resistance Heroes Incursion                                          	CIbridgeRHI                                                	2608948528 	
+	Proficiency Bridge: Additional Mission Types Redux                                   	FTBProfBridgeAddtlMissionTypeRedux                         	2687655622 	
+	Strategy Overhaul: Prototype Armoury Companion - Individual Build Check              	WOTC_SingleBuildCheck                                      	2452144856 	
+	Strategy Overhaul Bridge: Raider Faction Reward Weapons                              	RaiderFactionWeaponsBridgeMod                              	2734781033 	
+	[SOCI] Chain: Rescue Resistance Leader                                               	WOTC_MoreResistanceLeader                                  	2686602400 	
+	Strategy Overhaul Bridge: No Drop Down Lists                                         	WOTC_CI_BRIDGE_NODD                                        	2541687637 	
+	Strategy Overhaul Bridge: Biotic Class Redux                                         	BioticClassBridgeMod                                       	2734692793 	
+	Strategy Overhaul Bridge: Sangheili Spec Ops and Allies Unknown Sangheili            	SangheiliBridgeMod                                         	2734745151 	
+	SO Bridge: Resident Evil 3 Nemesis                                                   	NemesisBridge                                              	2784838143 	
+	CI Bridge Buildable Star Wars Units                                                  	CIBridgeBuildableStarWarsUnits                             	2753042515 	
+	[SOCI] Chain: Hunt the Chosen                                                        	WOTC_SOChosenChain                                         	2614923470 	
+	[CI] New Activity Chain: Contact New Resistance Cell                                 	ActivityChainUnlockRegion                                  	2744549315 	
+	Strategy Overhaul Bridge: Beam Grenade Launchers                                     	WOTC_CI_BRIDGE_BGL                                         	2818414864 	
+	SO Bridge: Resident Evil 2: Remake G-Virus                                           	GVirusBridge                                               	2854860338 	
+	[WOTC] ADVENT Isolation Protocol                                                     	FTBHideMakeContactButton                                   	2860819211 	
+	Covert Experience                                                                    	WOTCA115CoverAction                                        	2923639587 	
+	Strategy Overhaul Bridge : Super Soldiers                                            	WOTC_CI_BRIDGE_SuperSoldiers                               	2574859841 	
+	Strategy Overhaul Bridge: ADVENT Warlock                                             	SOBridge_Warlock                                           	2572862206 	
+	Stukovs Abomination: CI Sitreps                                                      	StukovsAbominationCISitreps                                	2934739221 	
+	[SOCI] Bridge: More Sitreps                                                          	CIBridgeMoreSitreps                                        	2608960168 	
+	Strategy Overhaul Bridge: Combat Knives                                              	CIBridgeCombatKnives                                       	2548504871 	
+	Rising Tides: The Program - Covert Infiltration Bridge                               	SOCIBridgeTheProgram                                       	2869979218 	
+
+Proficiency (21):
+	Proficiency Pack Pistol Slot Plugin v2.0                                             	ProficiencyPackPlugins                                     	2165012910 	
+	Proficiency Pack - Photobooth Poses plugin 2.0                                       	ProficiencyPoses                                           	2182465296 	
+	Proficiency: Community Perks Plugin                                                  	ProficiencyCommunityPerksPlugin                            	2176568728 	
+	[WOTC] Proficiency Class Plugin:  Skirmisher                                         	WOTC_APA_Skirmisher                                        	1990637687 	
+	[WOTC] Proficiency Class Plugin:  Reaper                                             	WOTC_APA_Reaper                                            	1864618184 	
+	[WOTC] Proficiency Class Pack                                                        	WOTC_APA_Class_Pack                                        	1265143828 	
+	[WOTC] Proficiency Class Plugin:  Jane Kelly                                         	WOTC_APA_DirectorKelly                                     	2352681017 	
+	[WOTC] Proficiency Class Plugin:  Templar                                            	WOTC_APA_Templar                                           	2496297018 	
+	Proficiency Templar: Community Perks Plugin.                                         	proftemplarcommunityperks                                  	2553275410 	
+	Proficiency Class Plugin: Combat Engineer 1.91                                       	profCombatEngineer                                         	2593663058 	
+	Proficiency Class Irregular: Brawler                                                 	WOTCBrawler                                                	2822838039 	
+	Proficiency Class Irregular: Electroraider                                           	WOTCElectroScrapper                                        	2822845960 	
+	Proficiency Irregular Plugin: Harasser                                               	WOTCHarasser                                               	2822826955 	
+	Proficiency Class Irregular: Wanderer                                                	WOTCWanderer                                               	2822852959 	
+	Proficiency Plugin: The MOCX Initiative Factions                                     	FTBProficiencyMocxHeroes                                   	2857303746 	
+	Knox's Proficiency Plugin: Shock Trooper                                             	KPPShockTrooper                                            	2843185568 	
+	Knox's Proficiency Plugin: Skirmisher Sentinel                                       	KPPSkirmisherSentinel                                      	2845265473 	
+	Knox's Proficiency Plugin: Reaper Scout                                              	KPPReaperScout                                             	2845001105 	
+	Knox's Proficiency Plugin: Templar Knight                                            	KPPTemplarKnight                                           	2844901986 	
+	Knox's Proficiency Port: Rocketeer                                                   	KPPRocketeer                                               	2843826326 	
+	Proficiency Port: Patchwork Soldier Class                                            	FTBProfPatchwork                                           	2860023316 	
+
+Equipment (96):
+	Revised Weapon Upgrades                                                              	RevisedWeaponUpgrades                                      	1738988954 	
+	[WOTC] Iridar's Armor Overhaul 2.0                                                   	WOTCDefensiveItemOverhaul2                                 	2268770257 	
+	[WOTC] Weapon and Item Overhaul                                                      	WOTC_APA_WeaponItemOverhaul                                	2091410349 	
+	[WOTC] - Vektor Crossbows                                                            	WOTC_CrossbowVektor                                        	1773420239 	
+	Long War SMG Pack - WotC (unofficial)                                                	LW_SMGPack_WotC                                            	1126071432 	
+	WotC Ballistic Shields                                                               	WotCBallisticShields                                       	1416242202 	
+	[WOTC] Visual Attachments For Shiremct's Overhaul                                    	WOTC_ShiremctOverhaulAttachments                           	2099523256 	
+	[WOTC] Shield Attachments                                                            	ShieldUpgrades                                             	2197927839 	
+	[WOTC] ADVENT Armor: Priest                                                          	AdventPriestArmor                                          	2425153766 	
+	[WOTC] ADVENT Armor: Reverse-Engineering                                             	ADVENTGear                                                 	2201956436 	
+	[WOTC] ADVENT Armor: Pathfinder                                                      	AdventPathfindersArmor                                     	2274935199 	
+	[WOTC] ADVENT Armor: Purifier                                                        	AdventPurifierArmor                                        	2213094224 	
+	[WOTC] ADVENT Armor: Shieldbearer                                                    	AdventShieldbearerArmor                                    	2212283900 	
+	[WOTC] ADVENT Armor: Stunlancer                                                      	AdventLancerArmor                                          	2206139678 	
+	[WOTC] ADVENT Armor: Officer                                                         	AdventCaptainArmor                                         	2201956611 	
+	[WOTC] ADVENT Armor: Trooper                                                         	AdventTrooperArmor                                         	2192407850 	
+	[WOTC] ADVENT Armor: Pathfinder Hunter                                               	AdventPathfinderCaptainArmor                               	2274962195 	
+	[WOTC] Repeater Sting                                                                	RepeaterSting                                              	1843537864 	
+	[WOTC] ADVENT Armor: LWOTC Edition                                                   	AdventArmorsForLWOTC                                       	2275202921 	
+	Additional Vest Types                                                                	MZVestMod                                                  	2092390254 	
+	[WOTC] M25 Hornet Submachine Gun                                                     	M25Hornet                                                  	1933261556 	
+	[WOTC] M22 Cyclone Heavy Rifle                                                       	M22Cyclone_Heavy_Rifle                                     	1521389299 	
+	[WOTC] M23 Katana Shotgun                                                            	M23Katana_Shotgun                                          	1515978004 	
+	[WOTC] M96 Mattock Assault Rifle                                                     	M96Mattock                                                 	1469596145 	
+	[WOTC] M97 Viper Sniper Rifle                                                        	M97Viper_Sniper_Rifle                                      	1515135258 	
+	[WOTC]Mass Effect Weapon Pack                                                        	MassEffectWeapons                                          	2226953969 	
+	Melee Attachments/Upgrades                                                           	MeleeAttachments                                           	2134785102 	
+	[WOTC] Gremlin Revamp                                                                	GremlinRevamp                                              	1323729052 	
+	Battle Rifles and Strike Rifles for LWOTC                                            	BattleRiflesAndStrikeRiflesLWOTC                           	2278034718 	
+	[WOTC] More Utility Items (v1.2.1)                                                   	MoreUtilities                                              	2520524728 	
+	[WOTC] Frost Munitions                                                               	WOTC_FrostMunitions                                        	2262682879 	
+	XCOM Trinkets                                                                        	XCOMTrinkets                                               	2231337359 	
+	[WOTC] Molotovs by Iridar                                                            	WOTCMolotov                                                	1610325259 	
+	[WOTC] Armor Upgrades                                                                	WOTC_TRMoreUpgrades                                        	2644686699 	
+	FearBomb [WoTC]                                                                      	FearBomb_WOTC                                              	1170580834 	
+	[WOTC] Chemthrower Addons                                                            	WOTC_Rusty_Alchemist_CXPurifierAddon                       	1965050975 	
+	Chosen Reward Variety                                                                	ChosenRewardVariety                                        	1619292810 	
+	A Better Barracks Arsenal for LWOTC                                                  	ABBArsenalForLWOTC                                         	2243118743 	
+	[WOTC] LW2 Secondary Weapons                                                         	WOTC_LW2SecondaryWeapons                                   	1140434643 	
+	Stiletto Rounds For XCOM                                                             	StilettoRounds                                             	1127578683 	
+	[WOTC] LW2 Primary Secondaries                                                       	PrimaryLW2Secondaries                                      	1741136054 	
+	Vektor Rifle Armor Crit Bonus                                                        	VektorArmorCritBonus                                       	2015775670 	
+	Armour Upgrades : Proficiency Perks Plugin                                           	profteslaplugin                                            	2781724524 	
+	[WOTC] Stukov's War: Vest Pack                                                       	[WOTC]StukovsVests                                         	2783508128 	
+	[WOTC] Stukov's War - Ammunition Pack                                                	[WOTC]Stukov'sWarArsenal-Ammunition                        	2775769426 	
+	[WOTC] Warframe Arsenal Ghost Templates                                              	WarframeGhostTemplates                                     	2806044340 	
+	[WOTC] Cut Content Ammo                                                              	CutContentAmmo                                             	1139151743 	
+	[WOTC] Grenade Rebalance                                                             	WOTCGrenadeRebalance                                       	2025921415 	
+	[WOTC] Heavy Elemental Alchemical Throwers                                           	WOTC_ElementalHeavyThrowers                                	2286276688 	
+	WotC Vest Slot                                                                       	WotC_VestSlot                                              	1293714688 	
+	WotC TheAxeMod                                                                       	TheAxeMod                                                  	1123258145 	
+	Bitterfrost Protocol                                                                 	MZFrostRounds                                              	1891339003 	
+	Beam Grenade Launcher                                                                	BeamGrenadeLauncher                                        	1181681128 	
+	Additional Ammo Types                                                                	MZAmmoMod                                                  	1757248681 	
+	[WOTC] Sub Sonic Grenade                                                             	SubSonicGrenade                                            	1438787370 	
+	[WOTC] Stukov's War - Utility Items Pack                                             	[WOTC]StukovsWar-UtilityItemPack                           	2810088695 	
+	Stukovs War: Trinkets Pack                                                           	StukovsWarTrinketsPack                                     	2814223532 	
+	[WOTC] Savage Items BETA 0.21 - Covert Infiltration Compatible(ish)                  	SavageItems                                                	2817073890 	
+	(WotC) Psionic Grenade                                                               	PsionicGrenadeWotc                                         	2833434721 	
+	Meld For Long War of the Chosen                                                      	MeldForLWOTC                                               	2802698386 	
+	One Handed PsiJacks                                                                  	ohtpsijack                                                 	2830667161 	
+	[WOTC]LordAbizi's Gremlin & Bit Modules for Modular Sparks                           	HackingMSModules                                           	2841152531 	
+	Ericpar's HealBomb                                                                   	HealBomb                                                   	1440030681 	
+	Nightsister Faction Weapons [WOTC]                                                   	NightsisterGear                                            	2858248083 	
+	[WotC] Mimic Beacon Overhaul                                                         	MimicBeaconFix                                             	2258885774 	
+	[WOTC] Rocket Launchers 2.0                                                          	WOTCRocketLaunchers                                        	1775963384 	
+	[WOTC] Shield Generator                                                              	WOTC_ShieldGenerator                                       	2364461382 	
+	Meld Containers                                                                      	MeldContainers                                             	0          	
+	[WotC] Call of Duty: MODERN WARFARE (2019) :: Melee Weapon Pack                      	WotC_ModernWarfare4_Weapons_Melee                          	2929191105 	
+	[WotC] MGSV: TPP :: Riot Shields Weapon Pack                                         	WotC_MGSV_Weapons_Melee_Shields                            	2931572010 	
+	[WotC] MGSV: TPP :: Riot Shields Weapon Pack - Squad Manager Patch                   	WotC_MGSV_Weapons_Melee_Shields_SqMgr                      	2931578666 	
+	WotC Combat Knives                                                                   	WotCCombatKnives                                           	1135248412 	
+	[Wotc] Halo Weapons Medley                                                           	WotcHaloWeaponMedly                                        	1126904015 	
+	Adeptus Mechanicus [WOTC]                                                            	40kMechanicus                                              	1943761564 	
+	Item Durability                                                                      	ItemRepair                                                 	1244105000 	
+	[WOTC] Ablative Vests                                                                	WOTC_AblativeToVest                                        	2335324263 	
+	Stukovs Abomination: PCS                                                             	StukovsAbominationPCS                                      	0          	
+	Long War Laser Pack - WotC (unofficial)                                              	LW_LaserPack_WotC                                          	1126705983 	
+	[WOTC] Iridar's ADVENT Arsenal - Ghost Templates                                     	WOTCIridarAdventArsenalGhostTemplates                      	2438647615 	
+	[WOTC] Iridar's LW2 Laser and Coil Weapons - Assets                                  	WOTCIridarLaserCoilAssets                                  	2391815952 	
+	[WOTC] Iridar's LW2 Laser and Coil Weapons - Ghost Templates                         	WOTCIridarLaserCoilGhostTemplates                          	2391820069 	
+	[WOTC] Custom Pistol Clip Size                                                       	CustomPistolClipSize                                       	2960670565 	
+	Unique-ish Vektor Crossbow                                                           	Unique-ishVektorCrossbow                                   	2962703655 	
+	[WotC] Shield Rework                                                                 	ShieldRework                                               	2310533632 	
+	[WOTC] Fallout Arsenal Ghost Templates                                               	FalloutGhostTemplates                                      	2693025366 	
+	WotC Tactical Suppressors                                                            	TacticalSuppressors                                        	1135274274 	
+	[WOTC] Destiny Arsenal Ghost Templates (v1.03)                                       	DestinyGhostTemplates                                      	2538501411 	
+	Autoupgrades Be-Gone                                                                 	AutoupgradesBe-Gone                                        	0          	
+	Build Random Upgrade                                                                 	randomupgrade                                              	2981314573 	
+	Stukovs War: Reverse Engineering                                                     	[WOTC]ADVENTArmorStukovsCollection                         	2988487483 	
+	[WOTC] Half-Life 2 Arsenal Ghost Templates                                           	HalfLifeGhostTemplates                                     	2786805253 	
+	EU Plasma Weapon Pack                                                                	EUWeaponPack                                               	1531908100 	
+	Stukovs Weapon Overhaul                                                              	StukovsWeaponOverhaul                                      	3001173695 	
+	[WOTC] SMG Bar-B-Gone                                                                	FTB_SMG_Pack                                               	2961946771 	
+	[WOTC] Mercenary Plasma Ghost Templates                                              	MercPlasmaGhostTemplates                                   	3042712139 	
+	Force Weapons                                                                        	ImperialSurplusForceWeapons                                	2171892934 	
+
+Perks (20):
+	[WOTC] LW2 Classes and Perks                                                         	LongWar2AbilitiesforWotC                                   	1335226018 	
+	[WOTC] Extended Perk Pack                                                            	WOTC_ExtendedPerkPack                                      	1546482849 	
+	Mitzruti's Perk Pack                                                                 	MitzrutiPerkPack                                           	1561030099 	
+	[WOTC] Bstar's Perk Pack                                                             	BstarsPerkPack                                             	2115077818 	
+	Perk Pack - A Better Barracks (WOTC)                                                 	ABBPerkPack                                                	1993868715 	
+	Mitzruti's Perk Pack - DLC Extension                                                 	CryoPerkPack                                               	2066389408 	
+	Mechatronic Warfare Perk Pack                                                        	MechatronicWarfarePerkPack                                 	2329989067 	
+	[WOTC] Iridar's Templar Shield                                                       	WOTCIridarTemplarParryRework                               	2717557425 	
+	[WOTC] Shadow Ops Perk Pack                                                          	ShadowOpsPerkPack                                          	1519841231 	
+	[WOTC] Supercharge and Singe Abilities                                               	SlagAndMelta                                               	1745325917 	
+	[WOTC] Stukov's War Perk Pack                                                        	StukovWarPerkPack                                          	2728208078 	
+	Stukov Perk Pack: Vulnerabilities and Resistances                                    	StukovPerkPackVulnerabilitiesandResistances                	2818543130 	
+	[WOTC] Iridar's Perk Pack                                                            	WOTCIridarPerkPack                                         	2833581072 	
+	Big Things Don't Get Hugs                                                            	BigThingsDontGetHugs                                       	2876755199 	
+	Modpocalypse Perk Pack                                                               	rustycloistaperks                                          	2936550132 	
+	Tac Perk Pack                                                                        	TacPerkPack                                                	2959675867 	
+	LordAbizi's Perks - Disastrous Adventures Noodle Code Experience                     	lapdance                                                   	2977800454 	
+	[WOTC] XpanD's Abilities And Assets                                                  	XpanDsAbilitiesAndAssets                                   	2785128698 	
+	Pet Rock Perk Pack                                                                   	PetRockPerkPack                                            	2837946702 	
+	SAVAGE Abilities and Sitreps CORE                                                    	SavAbilitiesAndSitrepsCore                                 	3126379376 	
+
+Create Things (11):
+	[WOTC] Create Custom Abilities: Stats                                                	CreateStatsAbilities                                       	1802426707 	
+	[WOTC] Create Custom Abilities: Immunities                                           	CreateImmunitiesAbilities                                  	1802427204 	
+	Build-A-Dark-Event WOTC                                                              	AbilityDarkEvents                                          	2679823280 	
+	[WOTC] Ability Editor                                                                	AbilityEditor                                              	1789085465 	
+	[WOTC] WSR Weapon Skin Replacer - Core                                               	zzzWeaponSkinReplacer                                      	1517938486 	
+	Dynamic Enemy Creation (BETA)                                                        	DynamicEnemyCreation(BETA)                                 	1634859837 	
+	[WOTC] Iridar's Template Master - Core                                               	WOTCIridarTemplateMaster                                   	2363075446 	
+	Reward Deck Builder                                                                  	RewardDeckBuilder                                          	2830998888 	
+	AWC Expander                                                                         	AWCExpander                                                	2829084060 	
+	Let There Be POIs                                                                    	MorePOITypes                                               	2833889867 	
+	[WOTC] Configurable Immunities                                                       	ConfigurableImmunities                                     	1779260037 	
+
+Chosen & Ruler (12):
+	Chosen Dialogue Tweaks                                                               	AssassinShotgunLines                                       	1278642731 	
+	[WotC] Aggressive Chosen                                                             	AggressiveChosen                                           	1385221930 	
+	[WOTC] Extra Abilities for Chosen Weapons                                            	MoreChosenWeaponAbilities                                  	1662019265 	
+	New Chosen Traits                                                                    	NewChosenTraits                                            	1468360211 	
+	Restored Chosen Traits                                                               	RestoredChosenTraits                                       	1133896546 	
+	Buff Chosen HP                                                                       	BuffChosenHP                                               	2430277799 	
+	[WOTC] Rulers Pause Timers                                                           	WOTC_Rulers_Pause_Timers                                   	1975138210 	
+	[WOTC] Rulers Regen                                                                  	RulersRegen                                                	1807920670 	
+	[WotC] Don't Move A Muscle                                                           	TrackingShotReversal                                       	2697761263 	
+	A Better Chosen                                                                      	ABetterChosen                                              	1762615740 	
+	[WotC]LW2 Chosen Perk Pack                                                           	LWPchosenaddon                                             	1763061909 	
+	[WOTC] Don't Make a Sound                                                            	FTBDontMakeASound                                          	2981094024 	
+
+Sitrep, Dark Event, Trait (23):
+	[WOTC] Advent Field Training                                                         	AdventFieldTraining                                        	1658110374 	
+	[WOTC] More Dark Events: Enemy Abilities                                             	DarkEventAbilities                                         	2001236323 	
+	[WOTC] More Dark Events: Enemy Stat Boosts                                           	DarkEventStats                                             	1985831295 	
+	Additional Dark Actions                                                              	AdditionalDarkActions                                      	1134626178 	
+	[WotC] Remove Dark Event (Grim Horizon Lite)                                         	RemoveDarkEvent                                            	1548905424 	
+	[SOCI] Grim Horizon Lite Redux                                                       	WOTC_SORemoveDE                                            	2604675061 	
+	[WOTC] Sitrep: Advent Forces                                                         	AdventForces                                               	2155489611 	
+	Resistance Heroes Incursion Sitrep                                                   	RHIncursion                                                	1961980059 	
+	Restored SITREPs                                                                     	RestoredSITREPs                                            	1123082397 	
+	More Mission SITREPs                                                                 	MoreMissionSITREPs                                         	1365805339 	
+	More Traits                                                                          	MoreTraits                                                 	1122837889 	
+	Starting Traits                                                                      	StartingTraits                                             	1336467124 	
+	[WOTC] Stukov's War Dark Events                                                      	StukovWarDarkEvents                                        	2729653244 	
+	[WOTC] IronLordByron's Resistance Order Overhaul                                     	NewResistanceOrders                                        	2808674719 	
+	Expanded Continent Bonuses                                                           	expandedcontinentbonuses                                   	2797864304 	
+	A Requiem For Man: Gameplay Mutators Standalone (WIP)                                	ARFMDarkEvents                                             	2795578857 	
+	Expose Chosen Weakness                                                               	ExposeChosenWeakness                                       	1132573074 	
+	[WOTC] Dark Event Manager                                                            	FTBDarkEventManager                                        	2823862548 	
+	More Traits Bridge                                                                   	MoreTraitsBridge                                           	2884296788 	
+	More SITREPs                                                                         	MoreSITREPs                                                	1169625825 	
+	Stukovs mashed Sitreps                                                               	StukovsmashedSitreps                                       	3051799732 	
+	[WOTC] Scaling Dark Events                                                           	MoreDarkEvents                                             	3078247580 	
+	SAVAGE Sitreps: Tactical Troubles                                                    	SavageSitrepsTacticalTroubles                              	3126380497 	
+
+Force Level (5):
+	Diverse Aliens By Force Level WOTC                                                   	DiverseAliensByForceLevelWOTC                              	1969247728 	
+	[WOTC] Force Level Display                                                           	ForceLevelDisplay                                          	1916761361 	
+	[WOTC] Force Level Control                                                           	ForceLevelControl                                          	2160863486 	
+	Success-based Dynamic Force Level                                                    	DynamicDifficulty                                          	645146227  	
+	[WOTC] FL Extender                                                                   	FLExtender                                                 	1769840441 	
+
+Own Mods (2):
+	Stukovs Campaign Edits                                                               	zzzStukovsEdits                                            	2849606195 	
+	Stukovs Expanded AWC Limiter                                                         	StukovsExpandedAWCLimiter                                  	3094177817 	
+
+Sparks, Machines (14):
+	Imperial Surplus: Buildable AT-ST (WOTC)                                             	BuildableImperialWalkersATST                               	2284419312 	
+	Imperial Surplus: Buildable Dark Troopers (WOTC)                                     	BuildableDarkTroopers                                      	2284399047 	
+	[WOTC] Mechatronic Warfare: Total SPARK Overhaul                                     	MechatronicWarfare                                         	1499767042 	
+	[WOTC] Iridar's SPARK Arsenal 3.2                                                    	WOTCMoreSparkWeapons                                       	2127166233 	
+	Metal Over Flesh Redux                                                               	MetalOverFleshRedux                                        	1125117203 	
+	[WOTC] Spark Arsenal Plugin: Shell Charges                                           	WOTC_ISA_ShellCharges                                      	2736399137 	
+	[WOTC] Shiv Mod                                                                      	firebornshiv                                               	1527642618 	
+	Modular SPARKs WOTC                                                                  	ModularSparksWOTC                                          	2784248734 	
+	Modular Sparks: Incinerator Modules                                                  	MSimmolator                                                	2837575754 	
+	Alpha's EU Shivs                                                                     	AlphaShivs                                                 	2964444807 	
+	Buildable Geth Redux                                                                 	BuildableGethRedux                                         	1134160419 	
+	Modular Sparks: Digi's Basegame Modules                                              	DigisSparkModulesBasegame                                  	3076653009 	
+	Modular Sparks: Digi's Better Barrack Modules                                        	DigisModulesBetterBarracks                                 	3087936115 	
+	Imperial Surplus: Buildable AT-RT (WOTC)                                             	BuildableImperialWalkers                                   	2284413605 	
+
+Enemy Behaviour (10):
+	[WOTC] ADVENT Suppression (Includes ABA Support)                                     	WOTCAdventSuppression                                      	1168806643 	
+	[WOTC] Advent Purifier Revamp                                                        	AdventPurifierRevamp                                       	1958853933 	
+	[WoTC] Stop Driving Me Insane Codex!                                                 	StopDrivingMeInsaneCodex                                   	2126402985 	
+	[WOTC] Advent General Revamp                                                         	AdventGeneralRevamp                                        	1241956143 	
+	REQ: [WOTC] ADVENT Rage                                                              	WOTCChannelingField                                        	1275901924 	
+	The Ethereal Restoration: Extended                                                   	EtherealAutopsy                                            	2766831269 	
+	[WOTC] Adv Priest Revamped                                                           	AdvPriestRevamped                                          	1759644155 	
+	Unrestricted Codex Spawning                                                          	UnrestrictedCodexSpawning                                  	1135264649 	
+	Stukovs War: Prime Followers - and more                                              	StukovsWarChangedEncounterLists                            	2842362557 	
+	Reshi's Aliens Not Created Equal                                                     	ReshiANCE                                                  	2937089811 	
+
+Allies Unknown (11):
+	Allies Unknown Redux Species: Asari                                                  	AsariRedux                                                 	1127796999 	
+	Interrogation And Recruitment                                                        	InterrogationAndRecruitment                                	2643632661 	
+	Non-Skirmisher ADVENT Hybrids                                                        	ADVENTHybridsRedux                                         	1137551204 	
+	Allies Unknown Redux Species: Sangheili                                              	AlliesUnknownReduxElites                                   	1348789697 	
+	Allies Unknown Species Redux: Krogans                                                	KroganRedux                                                	1134684780 	
+	Allies Unknown Redux Species: Quarians                                               	QuarianRedux                                               	1136071465 	
+	Allies Unknown Redux Species: Turians                                                	TuriansRedux                                               	1123594175 	
+	Allies Unknown Redux Species: Salarians                                              	SalariansRedux                                             	1132069548 	
+	Allies Unknown: War of the Chosen Edition                                            	AlliesUnknownRedux                                         	1123588800 	
+	Interrogation and Recruitment Add-on: ADVENT/EXVENT                                  	InRRecruitModADVENT                                        	2722692585 	
+	Allies Unknown: Droid Pack                                                           	A115DroidMod                                               	2991675771 	
+
+Fix (34):
+	[WOTC] Facility Clearing UI Indicator Fix                                            	FacilityClearingUIIndicatorFixWOTC                         	1130714554 	
+	[WotC] Weapon Fixes                                                                  	WepUpgradeFix                                              	1737532501 	
+	Hunker Down Flanking Fix WOTC                                                        	HunkerDownFlankingFixWOTC                                  	1878647436 	
+	[WotC] Revival Protocol Fixes                                                        	RevivalProtocolFixes                                       	1123037187 	
+	Ammo Pocket Fix                                                                      	AmmoPocketFix                                              	727666654  	
+	Device DoT Fix                                                                       	DeviceDoTFix                                               	1285056268 	
+	[WOTC] Shredstorm Cannon Build Fix                                                   	WOTC_ShredstormCannonBuildFix                              	2257652871 	
+	Ever Vigilant Bugfixes WOTC                                                          	EverVigilantBugfixes                                       	1149340002 	
+	[WOTC] Musashi's Mods Fixes                                                          	WOTCMusashiModFixes                                        	2569592723 	
+	[WOTC] Carry Unit Fix                                                                	WotCCarryUnitFix                                           	1378606631 	
+	[WotC] Scanning Protocol Fix                                                         	ScanningProtocolFix                                        	2365326252 	
+	Missing Packages Fix - Parcels and Maps Edition                                      	MissingPackagesFix_ParcelsMaps                             	1140305914 	
+	Missing Packages Fix + Resource                                                      	Missing_FX_Package_Resource                                	1124064427 	
+	[WOTC] Grim Horizon Fix                                                              	GrimHorizonFix                                             	2078307522 	
+	[WOTC] End of Mission Quotes Fix                                                     	EndofMissionQuotes                                         	1351708150 	
+	Clean Camera Angles Fix                                                              	CleanCameraAnglesv2                                        	1138494689 	
+	(WOTC) Revival Protocol Charges Fix                                                  	RevivalProtocolChargesFix                                  	1862336674 	
+	Avenger Defense Bondmates Fix                                                        	BondmatesSpawnFix                                          	1176368634 	
+	[WOTC] Less Overwatch Lock Ups!                                                      	OverwatchLockupFix                                         	1276342555 	
+	Spectre Vanish Fix                                                                   	SpectreVanishFix                                           	1373960922 	
+	[WotC] Better Grappling!                                                             	GrappleFix                                                 	1486607466 	
+	Defense Matrix Sabotage Fix                                                          	SabotageFix                                                	1135867452 	
+	Custom Soldiers Evac Zone Fix                                                        	AlliesUnknownEvacZoneFix                                   	1124713229 	
+	[WOTC] Chosen Weaponry Fix                                                           	ChosenWeaponryFix                                          	1484778143 	
+	[WOTC] Electrical Damage Consistency                                                 	ConsistentElectricalDamage                                 	1396894338 	
+	[WotC] Agile Strength Fix                                                            	FixedAgile                                                 	2211077969 	
+	Sacrifice Targeting Fix                                                              	SacrificeTargetingFix                                      	2648230104 	
+	[WOTC] Core Collection Meta Mod                                                      	WOTCCoreCollection                                         	2166295671 	
+	SQUID BE GONE!                                                                       	FixSquidBug                                                	2392049232 	
+	[WOTC] Viper Grab and Bind Close Range Only                                          	[WOTC]ViperGrabandBindCloseRangeOnly                       	1945771983 	
+	[WOTC] Improved Feedback                                                             	WOTC_ImprovedFeedback                                      	2940237314 	
+	[WOTC] Build Item Class Requirements Begone                                          	ZelfClassRequirementsBegone                                	2979496634 	
+	[WOTC] Resource Cost Fixer                                                           	ZelfFixResourceCosts                                       	3137225733 	
+	[Beta] XModBase Redux                                                                	XModBaseRedux                                              	3137332236 	
+
+Missions (22):
+	Expanded Mission Names (WotC)                                                        	ExpandedWotCMissionNames                                   	1126743222 	
+	Mission Difficulty Variety WOTC                                                      	AlertLevelVarietyWOTC                                      	2556670777 	
+	[WOTC] Golden Path Missions Revamp                                                   	GoldenPathMissionsRevamp                                   	1294398423 	
+	[WOTC] Chosen Avenger Defense Revamped                                               	AvengerDefenseRedo                                         	2209195185 	
+	A Harder War: Advanced Alien Missions                                                	AHarderWarAdvancedAlienMissions                            	1968724346 	
+	Additional Mission Types Redux                                                       	AdditionalMissionTypesRedux                                	1133287457 	
+	[WOTC] Recover Fallen Hero                                                           	RetrieveItemsFromFallen                                    	2668955805 	
+	Additional Mission Redux Intel Inflation Fix                                         	AMRIntelInflationFix                                       	2840764687 	
+	[WOTC] Militia Overhaul Plus Plus 2022                                               	2022MilitiaOverhaul                                        	2696624336 	
+	FBmissionpack2                                                                       	FBmissionpack2                                             	0          	
+	CreateDistractionMission                                                             	CreateDistractionMission                                   	0          	
+	Terror Mission: Plague Outbreak                                                      	AHWChryssalidRescue                                        	2972461246 	
+	Supply Mission: Onslaught Survival                                                   	AHWSupplyRaidSurvival                                      	2975471432 	
+	[WOTC] Leviathan Extended Squad Size                                                 	WOTC_LeviathanExpandedSS                                   	2364381878 	
+	ABA: Better Missions                                                                 	ABAMissions                                                	1819152057 	
+	[WOTC]Mission Beneath Suspicion                                                      	MissionBeneathSuspicion                                    	3000011407 	
+	Scanning Sites Plus Two                                                              	ScanningSitesPlusTwo                                       	3003487531 	
+	Strategy Overhaul : Maximum Security 2.3                                             	addcompundtoci                                             	2579687762 	
+	Scanning Glass Plus 2 - Beta Prerelease                                              	ScanningSitePlusGlass                                      	3045211110 	
+	Retaliation Configurator [JANKY MOD]                                                 	RetalConfig                                                	3039789248 	
+	Stukovs TLE Missions for Campaign                                                    	StukovsTLEMissionsforCampaign                              	3123105223 	
+	Stukovs Diversity Project: CI Missions                                               	StukovsDiversityProjectCIMissions                          	3126461541 	
+
+Difficulty (22):
+	Infirmary Healing Rate Changer                                                       	InfirmaryHealingRateChanger                                	1188260112 	
+	[WOTC] Grenade Scatter                                                               	WOTCGrenadeScatterGrenades                                 	2025928724 	
+	[WOTC] Complicated Red Fog                                                           	ComplicatedRedFog                                          	1897187029 	
+	[WOTC] Keep Pod Count                                                                	KeepPodCount                                               	1908112489 	
+	[WotC] Per-Turn Will Loss                                                            	K04_PerTurnWillLoss                                        	2356606150 	
+	[WOTC] Morale System                                                                 	WOTC_MoraleSystem                                          	2242584900 	
+	[WOTC] Realistic Height Aim Modifiers                                                	ImprovedHeightAimModifiers                                 	2804452505 	
+	[WotC] Reload Rework (Reload Ends The Turn)                                          	ReloadRework                                               	1995132997 	
+	More Will Loss [WOTC]                                                                	MoreWillLoss                                               	1616925948 	
+	Activity Difficulty Variety CI                                                       	AlertLevelVarietyCI                                        	2758095231 	
+	[WOTC] Advent Not Created Equal: Community Edition                                   	FTBAdventNotCreatedEqualCommunityEdition                   	2861468985 	
+	ADVENT Not Created Equal WOTC                                                        	ADVENTNotCreatedEqualWOTC                                  	2319302917 	
+	A Requiem For Man: Strongholds Standalone                                            	ARFMExpandedChosenStrongholds                              	2909901677 	
+	Yellow Alert Gameplay Lite (WOTC)                                                    	YellowAlertLite                                            	2828170340 	
+	A Harder War: Waterworld Ethereals                                                   	EtherealWaterworld                                         	2902795486 	
+	M.E.M.E.B.O.T.S.                                                                     	memebotsactivate                                           	2948411630 	
+	[WotC] Infirmaria Ex Mortis                                                          	InfirmariaExMortis                                         	1629659010 	
+	[WOTC] Yellow Alert Gameplay V2.0                                                    	YellowAlert                                                	1964595004 	
+	[WOTC] Stukov's War Enhanced Enemies: Purifiers                                      	[WOTC]Stukov'sWarEnhancedEnemiesPurifiers                  	2978459982 	
+	[WOTC] Training Restrictions                                                         	TrainingRestrictions                                       	3085968363 	
+	Revive Costs an Action                                                               	ReviveCostsAction                                          	1128440472 	
+	Stukovs Chosen Entourage                                                             	StukovsChosenEntourage                                     	0          	
+
+Lost (16):
+	[WotC] The Flood: Replace the Lost BETA                                              	TheFlood                                                   	2110225774 	
+	[WOTC] Resident Evil 3: Remake Nemesis (BETA)                                        	RE3_Nemesis_Prototype                                      	2400021624 	
+	[WOTC] Reaper Cannibal                                                               	ReaperCannibal                                             	2234432616 	
+	[WOTC] Collector Drone                                                               	CollectorTrooper                                           	2022237516 	
+	[WOTC] Collector Vanguard                                                            	CollectorCaptain                                           	2022239013 	
+	[WOTC] Collector Assassin                                                            	CollectorAssassin                                          	2220939957 	
+	[WOTC] Reaper Banshee                                                                	ReaperBanshee                                              	2247101104 	
+	[WOTC] Reaper Brute                                                                  	ReaperBrute                                                	2220244568 	
+	[WOTC] Reaper Marauder                                                               	ReaperMarauder                                             	2068179361 	
+	Stukovs Lost Army: Reapers and Collectors                                            	StukovsLostArmyReapersandCollectors                        	2783062725 	
+	[WOTC] Stukov's War Enhanced Enemies: Lost                                           	[WOTC]Stukov'sWarEnhancedEnemies-LostandMore               	2761660432 	
+	Stukovs Lost Army: Rulers                                                            	StukovsLostArmyRulers                                      	2783477617 	
+	Stukovs Lost Army - Nemesis                                                          	StukovsLostArmy-Nemesis                                    	2783018787 	
+	[WOTC] Resident Evil 2: Remake G-Virus (BETA)                                        	RE2_GVirus_Beta                                            	2264204537 	
+	Stukovs Lost Army: Nightsisters                                                      	StukovsLostArmyNightsisters                                	0          	
+	[WOTC] Hell Marauders                                                                	DoomMarauderEnemy                                          	2468352688 	
+
+Evolution (6):
+	Advent Evolution - Mod Plugin                                                        	AdventEvolutionABAModPack                                  	2805220765 	
+	Advent Evolution - Stukovs Lost World Plugin                                         	[WOTC]Stukov'sWar-LostWorldEvolution                       	2805469437 	
+	Faction Evolution                                                                    	FactionEvolution                                           	2781345966 	
+	Advent Evolution - The Chosen                                                        	AdventEvolution-TheChosen                                  	2816025156 	
+	WotC_AshlynneMoreSkillEvents                                                         	WotC_AshlynneMoreSkillEvents                               	3043880113 	
+	[WOTC] Stukov's War Advent Evolution (Beta)                                          	[WOTC]StukovsWar-AdventEvolution                           	2760713727 	
+
+Core Mods (140):
+	[WOTC] Community Promotion Screen                                                    	X2WOTCCommunityPromotionScreen                             	2550561145 	
+	[WOTC] Dedicated Pistol Slot 2.0                                                     	WOTC_PistolSlot                                            	1705464884 	
+	(WOTC) Zombies Don't Count                                                           	ZombiesDontCountWOTC                                       	1256370393 	
+	[WOTC] Dynamic Encounter Zones                                                       	DynamicEncounterZones                                      	1854949514 	
+	[WOTC] Cinematic Rapid Fire (and other abilities)                                    	CinematicRapidFireW                                        	1124794449 	
+	[WOTC] Full Padding                                                                  	WOTC_FullPadding                                           	2272504370 	
+	[WOTC] Consequences of Capture                                                       	WOTC_ConsequencesOfCapture                                 	2251732132 	
+	[WotC] Expanded Callsigns and Nicknames                                              	[WotC]ExpandedCallsignsandNicknames                        	1129464749 	
+	[WOTC] Cooldown Teamwork                                                             	CooldownBondmateAbilities                                  	2011007357 	
+	[WOTC] Automated Loadout Manager                                                     	WOTCAutomatedLoadoutSaver                                  	1882809714 	
+	[WOTC] Extended Personnel Info                                                       	ExtendedPersonnelInfo                                      	1458945379 	
+	[WOTC] Cost-Based Ability Colors                                                     	WOTC_CostBasedAbilityColors                                	1289686596 	
+	[WOTC] Free Reload Anytime                                                           	FreeReloadAnytimeWOTC                                      	1124843260 	
+	[WOTC] Expanded ROBOTICS Repair Facility v3                                          	WOTC_MoreEngineeringRepairSlots                            	2165999454 	
+	[WOTC] Cover Damage Reduction                                                        	CoverDamageReduction_WOTC                                  	1126684731 	
+	[WOTC] Additional Soldier Console Commands                                           	WOTC_SoldierConsoleCommands                                	1370543410 	
+	[WOTC] Better Double Agents for ABA                                                  	BetterDoubleAgentsforABA                                   	1127856855 	
+	[WOTC] Facility Overlay Slot Index Fix                                               	WOTC_FacOverlaySlotIndexFix                                	2792507649 	
+	[WOTC] More Base Utility Slots                                                       	MoreBaseUtilitySlots                                       	1448532065 	
+	[WOTC] Iridar's Scatter Mod                                                          	WOTCGrenadeScatter                                         	2025780967 	
+	[WOTC] Open Class Weapon Restrictions Config                                         	WOTCOpenWeaponRestrictionsConfig                           	1728899282 	
+	[WOTC] Open Class Weapon Restrictions                                                	WOTCOpenWeaponRestrictions                                 	1533060800 	
+	[WOTC] Holographic Scanning                                                          	WOTC_NoRedUnitScans                                        	2234141519 	
+	[WOTC] Passive Icons Core Collection Edition                                         	WOTCPassiveIcons_CC                                        	2170324254 	
+	[WOTC] Random Soldier Info Mod                                                       	WOTCRandomSoldierInfoMod                                   	1188012104 	
+	[WOTC] Multiple Attacks Increase Chance To Graze                                     	WOTC_MultipleAttacksMayGraze                               	2004976526 	
+	[WOTC] Marauder Affects Pistol                                                       	WOTC_MarauderPistol                                        	2285783177 	
+	[WotC] Melee Weapon Breakthrough                                                     	MeleeBreakthrough                                          	1510364832 	
+	[WOTC] Raiders and Resistance Strategic Spawning                                     	RaidersStrategicSpawning                                   	2139432337 	
+	[WOTC] Mission XP                                                                    	MissionXP                                                  	2604705147 	
+	[WOTC] Points of Interest Recycler                                                   	FTBPointOfInterestRecycler                                 	2703142766 	
+	[WotC] No Drop Down Lists With Controller Support                                    	NoDropDownListsForControllers                              	2098062078 	
+	[WOTC] Reliable Ever Vigilant                                                        	WOTC_ReliableEverVigilant                                  	2071833199 	
+	[WOTC] YAF1 Profile Extension                                                        	WOTC_YAF1_RustyExtension                                   	2368109302 	
+	[WotC+Classic] Reliable Smoke                                                        	SmokeStopsFlanks                                           	650751923  	
+	Ability To Slot Reassignment                                                         	AbilityToSlotReassignment                                  	2133397762 	
+	[WOTC] Show Tech Rewards                                                             	WOTC_ShowTechRewards                                       	2347354900 	
+	[WOTC] Tygan's Tech: Starting Research                                               	StartingTech                                               	2329433169 	
+	[WOTC] Soldier Info Redux                                                            	WOTCTacticalXP                                             	2415446578 	
+	[WOTC] Upgrade Slot Breakthrough for Melee Weapons                                   	MeleeUpgradesSlotsBreakthroughs                            	2146604605 	
+	[WOTC] Stats on New Promotion Screen                                                 	NewPromotionStats                                          	1716973380 	
+	[WotC] UI - Colored Ammo Bar                                                         	WotC_UI_ColoredAmmoBar                                     	1949300408 	
+	[WOTC] Request Evac                                                                  	RequestEvac                                                	1823265096 	
+	[WOTC] Stabilize Me                                                                  	WotC_StabilizeMe                                           	1380625450 	
+	[WOTC] Silent Throwing                                                               	WOTC_SilentGrenadeThrows                                   	2572176895 	
+	Chimera Squad Ability Icons                                                          	ChimeraSquadAbilityIcons                                   	2094355561 	
+	Empty WOTC Deco Slots for XCOM Soldiers (+ Some other empty things)                  	EmptyWOTCDecoSlotsforXCOMSoldiers                          	1127014384 	
+	Bondmates With More Benefits                                                         	MoreBondmateBenefits                                       	1167567103 	
+	Extract Corpses WOTC                                                                 	ExtractCorpsesWOTC                                         	1144390426 	
+	DLC Breakthroughs Support                                                            	SPARKWeaponBreakthroughs                                   	1133948306 	
+	Armor Breakthroughs Increase Armor                                                   	ArmorBreakthroughsIncreaseArmor                            	1138806343 	
+	Dropship Propaganda Variety                                                          	DropshipPropagandaVariety                                  	1437618071 	
+	Coilguns for War of the Chosen                                                       	WotC_CoilGuns                                              	1253939617 	
+	Everyone Gets Hunker Down WOTC                                                       	EveryoneGetsHunkerDownWOTC                                 	1541012085 	
+	Dual Wield Melee                                                                     	DualWieldMelee                                             	1439279281 	
+	Animation and Sockets Supplement [WOTC]                                              	A2X_AnimationSocketsSupplement                             	1943613600 	
+	Lightweight Strategy Overhaul                                                        	LightStrategyChanges                                       	1545241386 	
+	Immolator + Chemthrower Abilities                                                    	ImmolatorChemthrower                                       	1918448514 	
+	Ketaros 2D Package                                                                   	Ketaros2DResources                                         	1557951815 	
+	No Class Requirements For Breakthroughs                                              	NoClassReqsForBreakthroughs                                	2000279537 	
+	Load from character pool                                                             	Loadfromcharacterpool                                      	618960429  	
+	More Breakthroughs                                                                   	MoreBreakthroughs                                          	1138610197 	
+	More Nations and Names WotC                                                          	MoreNationsandNamesWotC                                    	1124284135 	
+	No Full Cover Grabs                                                                  	NoFullCoverGrabs                                           	880396912  	
+	More Resistance Order pages                                                          	MoreResistanceOrderpages                                   	1167004347 	
+	More Cities WotC                                                                     	MoreCitiesWotC                                             	1131405167 	
+	Long War 2 Loading Screens for WOTC                                                  	LongWar2LoadingScreens                                     	2067609919 	
+	Improved Smoke Defense WOTC                                                          	ImprovedSmokeDefense                                       	1557993133 	
+	Panic Mod WOTC                                                                       	PanicModWOTC                                               	1152667660 	
+	Grey Smoke Grenade                                                                   	GreySmokeGrenade                                           	742478385  	
+	No Rank Up Throttling                                                                	NoRankUpLimit                                              	785522241  	
+	WotC Mod Everything Reloaded                                                         	WotCModEverythingReloaded                                  	1127491931 	
+	Primary Grenade Launcher                                                             	PrimaryGrenadeLauncher                                     	1673431726 	
+	True Primary Secondaries [BETA]                                                      	TruePrimarySecondaries                                     	2133399183 	
+	WotC: Show Will Loss                                                                 	WotC_VisualizeWillEvents                                   	1134266810 	
+	View Locked Skills - Wotc                                                            	ViewLockedSkillsWotc                                       	1130817270 	
+	Smooth Scrolling                                                                     	SmoothScrolling                                            	957580056  	
+	Propaganda Poster Pack (14 new backgrounds)                                          	PropagandaPosterPack                                       	1318517696 	
+	Reward Decks Refresher                                                               	RewardDecksRefresher                                       	665435869  	
+	Pyrrhic Victories                                                                    	CatastrophicVictories                                      	1531883724 	
+	Remove Weapon Upgrades                                                               	RemoveWeaponUpgradesWOTC                                   	1162274976 	
+	Templar Gauntlets For Soldiers Animation Patch                                       	GauntletsforSoldiersAnimPatch                              	2405138536 	
+	Photobooth Quotes                                                                    	PhotoboothQuotes                                           	1201101405 	
+	WOTC Flawless                                                                        	WOTCFlawless                                               	1127174933 	
+	Tactical State Cleaner                                                               	TacticalStateCleaner                                       	2781621935 	
+	Yet Another F1                                                                       	YetAnotherF1                                               	934236622  	
+	Xylth's GTS (WotC)                                                                   	XylthGTSWotC                                               	1964389954 	
+	WSR Shotgun Animations                                                               	NewShotgunAnimations                                       	1701209115 	
+	XCOM Civilian Defense WOTC                                                           	XCOMCivilianDefenseWOTC                                    	1872771071 	
+	Cannon Animation Redux                                                               	CannonAnimationRedux                                       	1541141667 	
+	[WOTC] Alien Hunters Community Highlander v1.26.3                                    	DLC2CommunityHighlander                                    	2534737016 	
+	[WotC] Mod Config Menu                                                               	ModConfigMenu                                              	667104300  	
+	[WOTC] Open Squad Select at any time                                                 	SquadSelectAtAnyTime                                       	1529472981 	
+	Better Second Wave Mod Support                                                       	BetterSecondWaveSupport                                    	1149493976 	
+	WotC: robojumper's Squad Select                                                      	robojumperSquadSelect_WotC                                 	1122974240 	
+	Skirmisher Abilities For Soldiers Animation Patch                                    	SkirmisherAbilitiesForSoldiers                             	2820447189 	
+	[WotC] Research Rework                                                               	ResearchOverhaul                                           	2307111535 	
+	Explosives Destroy Corpses                                                           	ExplosivesDestroyCorpses                                   	1137938720 	
+	[WOTC] Extended Explosive Tweaks                                                     	WOTC_ExtendedGrenadeTweaks                                 	1373823382 	
+	[WOTC] Squad Manager                                                                 	SquadManager                                               	2542543519 	
+	Zoomier Zombie Animations                                                            	ZoomierZombieAnimations                                    	2834929289 	
+	[WotC] Configurable Objective Health                                                 	ConfigurableMapObjectiveHP                                 	2457141938 	
+	[WOTC] Mission Launch Auto Save                                                      	WOTCAutoSaveOnLaunchMission                                	2847584316 	
+	[WOTC] Nonlethal Combat                                                              	FTBNonlethalCombat                                         	2678005253 	
+	[WOTC] Stances                                                                       	WOTCStances                                                	1162490084 	
+	[WOTC] Leviathan Narrative Restoration                                               	FortressNarrativeRestoration                               	2806396128 	
+	[WOTC] XCom Scamper                                                                  	XComScamper                                                	1628518894 	
+	Visibility Condition Bandaid For Rapid Fire And Friends                              	VisCondForRapidFire                                        	2847640303 	
+	SingleUseItems                                                                       	SingleUseItems                                             	0          	
+	[WOTC] Skillful Skirmishing                                                          	SkillfulSkirmishing                                        	1465736030 	
+	Whiplash Overhaul                                                                    	WhiplashOverhaul                                           	1843332083 	
+	Viper Pull and Bind Rework                                                           	ViperPullandBindRework                                     	2631310898 	
+	Viper Animation Depository [WOTC]                                                    	ViperAnimationDeposit                                      	2748895305 	
+	Ability Prerequisite Get-Arounder                                                    	AbilityPrerequisiteGetArounder                             	2815632934 	
+	[WOTC] LOS Preview Ability                                                           	LOSPreviewWOTC                                             	1123163799 	
+	[WOTC] Soldier Development                                                           	WOTC_SoldierDevelopment                                    	1337050242 	
+	[WOTC] Custom Item Name Formats                                                      	ZelfCustomItemNameFormats                                  	2868237788 	
+	The Hive More and DABFL Compatibility Patch                                          	The_Hive_More_DABFL_Compat_Patch                           	2900197478 	
+	WotC Stealth Overhaul                                                                	WotCStealthOverhaul                                        	1135111760 	
+	[WOTC] Random Ability Deck Patcher                                                   	FTBSoldierRandomDeckPatcher                                	2857629423 	
+	[WOTC] After Action Report Extended                                                  	WOTC_AAR_Expanded                                          	2863161120 	
+	[WOTC] Configurable Posthumous Chosen Covert Action Risks                            	ConfigurablePosthumousRisks                                	2823200756 	
+	Resistance Units that Scamper                                                        	TedResistanceUnits                                         	2927106312 	
+	[WOTC] Dedicated pistol slot empty item patch                                        	PistolSlotPatch                                            	2961752357 	
+	[WOTC] Extra Damage Patcher                                                          	ZelfExtraDamagePatcher                                     	2971495164 	
+	[WOTC] First Aid by Iridar                                                           	WOTCFirstAid                                               	1733477929 	
+	Stukovs Abomination: Commands (Stances)                                              	StukovsAbominationCommands(Stances)                        	2974091367 	
+	Improved Friendly Reinforcement Mechanics                                            	ImprovedReinforcementMechanics                             	2976002434 	
+	[WOTC] Iridar's Loadout Manager                                                      	WOTCIridarManualLoadoutManager                             	2810261755 	
+	[WOTC]Corpse Replacer                                                                	CorpseReplacer                                             	2990015792 	
+	X2WOTCCommunityHighlander v1.26.3                                                    	X2WOTCCommunityHighlander                                  	1134256495 	
+	[WOTC] Use Free Actions with Momentum                                                	ZelfFreeActionMomentum                                     	2975899055 	
+	Coordinated Turn Interruptions                                                       	CoordinatedTurnInterruptions                               	2984920458 	
+	[WOTC] Tactical HUD Lag Fixes                                                        	WOTC_UITacticalHUD_LagFixes                                	3018494559 	
+	[WOTC] Zelfana's Assorted Fixes                                                      	ZelfanasAssortedFixes                                      	2797958446 	
+	[WOTC] Zelfana's Assorted Fixes Config                                               	ZelfanasAssortedFixesConfig                                	2798084598 	
+	[WOTC] Gotcha Again Redux                                                            	WOTC_GotchaAgainRedux                                      	3002469584 	
+	Sabotage Covert Action Rebalance                                                     	DoomRemovalNerf                                            	1368352200 	
+	[WoTC] Encounter List Cleaner                                                        	EncounterListCleaner                                       	3045524072 	
+	Phantom Evac                                                                         	PhantomEvac                                                	1748331160 	
+
+Facilities (3):
+	[WOTC] Facility Cost and Requirements Patcher                                        	FacilityCostPatcher                                        	2864674768 	
+	Facilities+                                                                          	FacilitiesPlus                                             	1933622888 	
+	[WOTC] Raider Relations                                                              	RaiderRelations                                            	2988595783 	
+
+Amalgamation (52):
+	Amalgamation Spec: Vindicator                                                        	AmalgamationSpecVindicator                                 	2861227498 	
+	Amalgamation Spec: Dreadnought                                                       	AmalgamationSpecDreadnought                                	2861366450 	
+	Amalgamation Spec: Overseer                                                          	AmalgamationSpecOverseer                                   	2862258193 	
+	Amalgamation Spec: Psi Commando                                                      	AmalgamationSpecPsiCommando                                	2861717820 	
+	Amalgamation Spec: Pyrotechnician                                                    	AmalgamationSpecPyrotechnician                             	2862950219 	
+	Low RNG Amalgamation: Keeper Specialization                                          	AmalgamationLRKeeperSpecialization                         	2854588722 	
+	Amalgamation Classes WOTC                                                            	AmalgamationClassesWOTC                                    	2428993550 	
+	Amalgamation: Tank Specialization                                                    	AmalgamationTank                                           	2623258034 	
+	Amalgamation: Mancer Specs                                                           	AmalgamationMancerSpecs                                    	2785601346 	
+	Amalgamation: Alien Hunter                                                           	AmalgamationAlienHunter                                    	2786545202 	
+	Amalgamation: Brigand Spec                                                           	AmalgamationBrigandSpec                                    	2786873231 	
+	Amalgamation: Biotic Spec                                                            	AmalgamationBioticSpec                                     	2787431955 	
+	Amalgamation: Ex-Lancer Spec                                                         	AmalgamationEx-LancerSpec                                  	2781919695 	
+	Amalgamation: Chaplain Spec                                                          	AmalgamationChaplainSpec                                   	2786198330 	
+	Amalgamation: Nightblade Spec                                                        	AmalgamationNightbladeSpec                                 	2781419111 	
+	Amalgamation: Grimys Classes                                                         	AmalgamationGrimysClasses                                  	2807686155 	
+	Amalgamation: Cryologist Class                                                       	AmalgamationCryologistClass                                	2808000514 	
+	Amalgamation: Recon Officer                                                          	AmalgamationReconOfficer                                   	2808056645 	
+	Amalgamation: Dragoon                                                                	AmalgamationDragoon                                        	2808106005 	
+	Amalgamation: Butterfly                                                              	AmalgamationButterfly                                      	2808150304 	
+	Amalgamation: Fusilier and Ravager                                                   	AmalgamationFusilierandRavager                             	2810534574 	
+	Amalgamation: Rogue                                                                  	AmalgamationRogue                                          	2808399713 	
+	Amalgamation: Pathfinder                                                             	AmalgamationPathfinder                                     	2811243277 	
+	Amalgamation: Pharmacist Spec                                                        	AmalgamationPharmacistSpec                                 	2780581653 	
+	Amalgamation: Architect                                                              	AmalgamationArchitect                                      	2811754438 	
+	Amalgamation: Agent                                                                  	AmalgamationAgent                                          	2811335882 	
+	Amalgamation: Runelord                                                               	AmalgamationRunelord                                       	2811845629 	
+	Amalgamation: Survivalist 2.0                                                        	AmalgamationSurvivalist2.0                                 	2816371979 	
+	Amalgamation: Harbinger Gunner Spec                                                  	AmalgamationHarbingerGunnerSpec                            	2816840125 	
+	Amalgamation: The Undead Lord                                                        	AmalgamationTheUndeadLord                                  	2830078058 	
+	Amalgamation: Desolator Specialization                                               	AmalgamationDesolatorSpecialization                        	2837085224 	
+	Amalgamation: Maverick Specialization                                                	AmalgamationMaverickSpecialization                         	2836947849 	
+	Amalgamation: Rocketeer Specialization                                               	AmalgamationRocketeerSpecialization                        	2836905917 	
+	Amalgamation: Infiltrator                                                            	AmalgamationInfiltrator                                    	2845502220 	
+	Amalgamation Spec: The Jericho Herald                                                	AmalgamationSpecTheJerichoHerald                           	2845405180 	
+	Low RNG Amalgamation: Stormcharger Specialization                                    	AmalgamationLRStormchargerSpecialization                   	2854592894 	
+	Amalgamation: Shocktrooper                                                           	AmalgamationShocktrooper                                   	2873451051 	
+	Amalgamation Specs: Richards Classes (beta)                                          	AmalgamationSpecsRichardsClasses                           	2864298891 	
+	Amalgamation Classes: Pistol Slot uses Trinkets                                      	AmalgamationClassesPistolSlotusesTrinkets                  	0          	
+	Amalgamation: SuperSoldiers                                                          	AmalgamationSuperSoldiers                                  	2922135763 	
+	Amalgamation: Adversary Specialization                                               	AmalgamationAdversarySpecialization                        	2902169860 	
+	Amalgamation: Burner Specialization                                                  	AmalgamationBurnerSpecialization                           	2890181922 	
+	Amalgamation: Blood Mage                                                             	AmalgamationBloodMage                                      	2932452348 	
+	Amalgamation: Proficiency Powered Specs                                              	AmalgamationProficiencyPoweredSpecs                        	2934433617 	
+	[WOTC] Amalgamation Console Helper                                                   	AmalgamationConsoleHelper                                  	2886967900 	
+	Amalgamation: The Three Jedi                                                         	AmalgamationTheThreeJedi                                   	2940489105 	
+	Amalgamation: Jack of all Trades                                                     	AmalgamationJackofallTrades                                	2946933079 	
+	Amalgamation: Ripper                                                                 	AmalgamationRipper                                         	2972127114 	
+	Stukovs Amalgamation Exclusions                                                      	StukovsAmalgamationExclusions                              	3088875530 	
+	Amalgamation Spec: The Mechanic                                                      	AmalgamationSpecTheMechanic                                	3100121403 	
+	Amalgamation Specs: Gears Tactics                                                    	AmalgamationSpecsGearsTactics                              	0          	
+	Low RNG Amalgamation: Myrmidon Specialization                                        	AmalgamationLRMyrmidonSpecialization                       	3110541284 	
+
+Tesla Loot Mod (6):
+	Armour Upgrades - Stukovs War Plugin with Tesla Loot Mod integration                 	ArmourUpgrades-StukovsWarPluginwithTeslaLootModintegration 	2817248543 	
+	Tesla Loot Mod - for Advent                                                          	TeslaLootMod-forAdvent                                     	2827875582 	
+	Stukov's Tesla Loot Mod Balance                                                      	Stukov'sTeslaLootModBalance                                	2820720513 	
+	Stukovs War: Additional Tesla Loot Mod Upgrades                                      	StukovsWarAdditionalTeslaLootModUpgrades                   	0          	
+	[WOTC] Tesla Loot Mod Fixed Chance                                                   	TeslaLootMod                                               	2960197261 	
+	Stukovs TLM Setup for 9 Tier                                                         	StukovsTLMSetupfor9Tier                                    	0          	
+
